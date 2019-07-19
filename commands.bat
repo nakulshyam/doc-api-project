@@ -8,3 +8,6 @@ Set WshShell = WScript.CreateObject("WScript.Shell")
 cd %root%
 python C:\MyProjects\utsavcode\commands.py %1
 EXIT /B 0
+
+@Echo off
+
